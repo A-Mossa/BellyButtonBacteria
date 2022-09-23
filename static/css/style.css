@@ -1,0 +1,16 @@
+body {
+    color: #000000;
+    background-color: #0b2a3d;
+  }
+
+.col-md-12 {
+    color:#cb8ee7;
+    background-color:rgb(78, 21, 124);
+}
+
+.jumbotron {
+background-image: url("../imgs/SampleBacteria.png");
+background-size: 100% 250%;
+text-align: center;
+color: #edabf3;
+}
