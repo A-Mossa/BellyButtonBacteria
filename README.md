@@ -13,4 +13,4 @@ Tools used:
   - Plotly Library
   - HTML
   
-Link to the github page containing the dashboard: https://a-mossa.github.io/BellyButtonBacteria/
+Link to the page containing the interactive dashboard: https://a-mossa.github.io/BellyButtonBacteria/
