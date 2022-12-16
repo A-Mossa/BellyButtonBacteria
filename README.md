@@ -11,5 +11,6 @@ Tools used:
   - VS Code.
   - JavaScript ES6
   - Plotly Library
+  - HTML
   
 Link to the github page containing the dashboard: https://a-mossa.github.io/BellyButtonBacteria/
